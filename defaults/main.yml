@@ -115,3 +115,4 @@ containerd_supported_distributions:
 
 gvisor_enabled: false
 kata_containers_enabled: false
+nri_enabled: false
