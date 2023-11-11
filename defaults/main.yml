@@ -114,3 +114,4 @@ containerd_supported_distributions:
   - "openEuler"
 
 gvisor_enabled: false
+kata_containers_enabled: false
